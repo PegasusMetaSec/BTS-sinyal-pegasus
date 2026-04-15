@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🦄 BTS SINYAL PEGASUS
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-15 at 14 41 18" src="https://github.com/user-attachments/assets/b60afe9c-2ae2-4561-a575-333df87d9a53" />
+
 
 ### *Fly above the market noise*
 
@@ -39,3 +40,6 @@ Dengan kecepatan **ZeroMQ** dan akurasi **AI-enhanced**, Pegasus memberikan siny
 ---
 
 ## 📸 Preview Dashboard
+
+<img width="1919" height="1024" alt="Screenshot 2026-04-06 014737" src="https://github.com/user-attachments/assets/4b7bd6d2-500e-4e3d-a14c-50ca9181f7d9" />
+
