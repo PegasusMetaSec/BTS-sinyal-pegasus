@@ -16,14 +16,11 @@
 
 ---
 
-## 🌟 Tentang BTS Sinyal Pegasus
+## 🎯 Apa Itu BTS Sinyal Pegasus - Number Tracker?
 
-> *Bukan sekadar sinyal biasa. Ini adalah sayap untuk trading kamu.*
+> *"Ketahui siapa di balik nomor itu."*
 
-**BTS Sinyal Pegasus** adalah sistem sinyal trading otomatis berbasis **on-chain + technical analysis**. Dirancang untuk trader yang ingin menangkap pergerakan harga sebelum orang lain sadar.
-
-Dengan kecepatan **ZeroMQ** dan akurasi **AI-enhanced**, Pegasus memberikan sinyal **BUY/SELL** dengan tingkat akurasi hingga **87%** (backtest 6 bulan terakhir).
-
+**BTS Sinyal Pegasus Number Tracker** adalah tools **OSINT (Open Source Intelligence)** untuk melacak dan mengidentifikasi nomor telepon. Mendapatkan informasi publik dari berbagai sumber terbuka.
 ---
 
 ## 🔥 Fitur Unggulan
