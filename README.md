@@ -10,8 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-**Sinyal akurat | Real-time | Tanpa lag | Support BTC + Altcoins**
-
 </div>
 
 ---
